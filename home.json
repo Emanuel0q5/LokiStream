@@ -1,1 +1,16 @@
+{
+    "data": [
+        {
+            "id_tmdb": "1038392",
+            "imagen": "https:\/\/image.tmdb.org\/t\/p\/w342\/qdoqogLNR6myoRrxYFxF4UTkFne.jpg",
+            "titulo": "Expediente Warren: El último rito",
+            "etiquetas": "Terror",
+            "type": "movie",
+            "created_at": "2025-09-03",
+            "updated_at": "2025-10-14T11:51:47.000Z",
+            "year": "2025",
+            "calidad": "HD"
+        }
 
+    ]
+}
